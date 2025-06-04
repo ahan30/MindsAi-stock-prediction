@@ -1,0 +1,1 @@
+# MindsAi-stock-prediction
